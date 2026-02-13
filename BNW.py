@@ -58,6 +58,7 @@ else:
 st.subheader("Take a Virtual Soma Dose")
 if st.button("Pop a Soma! 💊"):
     st.balloons()
+    st.sonw()
     st.write("Whoosh! Instant holiday vibes. Feel the worries melt away... You're welcome! 😎")
 
 # Positive Aspects section – List all the 'great' things exaggeratedly
