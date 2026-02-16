@@ -58,18 +58,18 @@ else:
 st.subheader("Take a Virtual Soma Dose")
 if st.button("Pop a Soma! 💊"):
     st.balloons()
-    st.sonw()
+    st.snow()
     st.write("Whoosh! Instant holiday vibes. Feel the worries melt away... You're welcome! 😎")
 
 # Positive Aspects section – List all the 'great' things exaggeratedly
 st.header("All the Amazing Positives of the World State 🌈")
 positive_aspects = [
-    "**Stability Supreme**: No wars, no recessions – just Fordian efficiency keeping everything smooth. Who needs chaos when you have control?",
-    "**Community Vibes**: Everyone's connected! From orgy-porgies to solidarity services, social bonds are stronger than ever (and way more fun).",
-    "**Identity Perfected**: Know your place and love it! Pre-destined roles mean zero career stress – you're born for success.",
-    "**Tech Triumphs**: Bokanovsky's Process creates up to 96 identical twins from one egg – population planning at its finest! Efficiency overload.",
-    "**Eternal Youth**: Death is just a transition, and conditioning makes it drama-free. Live young, die happy (at 60, looking fabulous).",
-    "**Eco-Friendly? Absolutely!**: Controlled population and consumption keep the planet in check – sustainable hedonism for all!"
+    "Stability Supreme: No wars, no recessions – just Fordian efficiency keeping everything smooth. Who needs chaos when you have control?",
+    "Community Vibes: Everyone's connected! From orgy-porgies to solidarity services, social bonds are stronger than ever (and way more fun).",
+    "Identity Perfected: Know your place and love it! Pre-destined roles mean zero career stress – you're born for success.",
+    "Tech Triumphs: Bokanovsky's Process creates up to 96 identical twins from one egg – population planning at its finest! Efficiency overload.",
+    "Eternal Youth: Death is just a transition, and conditioning makes it drama-free. Live young, die happy (at 60, looking fabulous).",
+    "Eco-Friendly? Absolutely!: Controlled population and consumption keep the planet in check – sustainable hedonism for all!"
 ]
 
 for aspect in positive_aspects:
